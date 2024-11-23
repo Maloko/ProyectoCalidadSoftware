@@ -1,0 +1,6 @@
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\Utilidad\bin\Debug\Utilidad.dll
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\Utilidad\bin\Debug\Utilidad.pdb
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\Utilidad\obj\Debug\Utilidad.csproj.AssemblyReference.cache
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\Utilidad\obj\Debug\Utilidad.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\Utilidad\obj\Debug\Utilidad.dll
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\Utilidad\obj\Debug\Utilidad.pdb

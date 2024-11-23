@@ -1,0 +1,24 @@
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\022_FUNCIONALIDAD SISTEMA DE VENTA MVC\VentasWeb\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+C:\Users\joel_\OneDrive\Escritorio\SISTEMA\022_SistemaVentaAspMVC-main\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\joel_\OneDrive\Escritorio\SISTEMA\022_SistemaVentaAspMVC-main\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\joel_\OneDrive\Escritorio\SISTEMA\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\joel_\OneDrive\Escritorio\SISTEMA\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\joel_\OneDrive\Escritorio\SISTEMA\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\joel_\OneDrive\Escritorio\SISTEMA\022_SistemaVentaAspMVC-main\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\soportecctv\Downloads\SISTEMA - ACTUALIZADO 18 05 2024\SISTEMA\SistemaVentaAspMVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\soportecctv\Downloads\SISTEMA - ACTUALIZADO 18 05 2024\SISTEMA\SistemaVentaAspMVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\soportecctv\Downloads\SISTEMA - ACTUALIZADO 18 05 2024\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\soportecctv\Downloads\SISTEMA - ACTUALIZADO 18 05 2024\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\soportecctv\Downloads\SISTEMA - ACTUALIZADO 18 05 2024\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\soportecctv\Downloads\SISTEMA - ACTUALIZADO 18 05 2024\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.pdb
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\marlo\Downloads\SISTEMA\SISTEMA\SistemaVentaAspMVC\CapaModelo\obj\Debug\CapaModelo.pdb

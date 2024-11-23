@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84EEAFFD-FE69-406B-A992-F242230D7BED}|NUnitVentas\\NUnitVentas.csproj|c:\\users\\marlo\\downloads\\sistema\\sistema\\sistemaventaaspmvc\\nunitventas\\productostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EEAFFD-FE69-406B-A992-F242230D7BED}|NUnitVentas\\NUnitVentas.csproj|solutionrelative:nunitventas\\productostest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84EEAFFD-FE69-406B-A992-F242230D7BED}|NUnitVentas\\NUnitVentas.csproj|c:\\users\\marlo\\downloads\\sistema\\sistema\\sistemaventaaspmvc\\nunitventas\\clientetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84EEAFFD-FE69-406B-A992-F242230D7BED}|NUnitVentas\\NUnitVentas.csproj|solutionrelative:nunitventas\\clientetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\capadatos\\cd_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF114377-3AB3-455C-923F-66993DCB9235}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductosTest.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\NUnitVentas\\ProductosTest.cs",
+              "RelativeDocumentMoniker": "NUnitVentas\\ProductosTest.cs",
+              "ToolTip": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\NUnitVentas\\ProductosTest.cs",
+              "RelativeToolTip": "NUnitVentas\\ProductosTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAuwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T18:58:05.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD_Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\CapaDatos\\CD_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Proveedor.cs",
+              "ToolTip": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\CapaDatos\\CD_Proveedor.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Proveedor.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAAAHYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:11:08.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CD_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\CapaDatos\\CD_Producto.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Producto.cs",
+              "ToolTip": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\CapaDatos\\CD_Producto.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Producto.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAcwJYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:09:17.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClienteTest.cs",
+              "DocumentMoniker": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\NUnitVentas\\ClienteTest.cs",
+              "RelativeDocumentMoniker": "NUnitVentas\\ClienteTest.cs",
+              "ToolTip": "C:\\Users\\marlo\\Downloads\\SISTEMA\\SISTEMA\\SistemaVentaAspMVC\\NUnitVentas\\ClienteTest.cs",
+              "RelativeToolTip": "NUnitVentas\\ClienteTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:47:57.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
